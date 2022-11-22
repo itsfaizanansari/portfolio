@@ -9,6 +9,7 @@ import projImg6 from "../assets/img/12345.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
+import { useState,useEffect } from "react";
 
 export const Projects = () => {
 
