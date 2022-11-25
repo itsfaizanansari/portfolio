@@ -30,27 +30,27 @@ export const Projects = () => {
   const [productIndex3, setProductIndex3] = useState(0);
   const projects1 = [
     {
-      description: "Graphic Design",
+      description: "Social Media Creatives",
       imgUrl: portfilio1,
     },
     {
-      description: "Graphic Design",
+      description: "Covers",
       imgUrl: portfilio2,
     },
     {
-      description: "Graphic Design",
+      description: "Social Media Posts",
       imgUrl: portfilio3,
     },
     {
-      description: "Graphic Design",
+      description: "Can Mockups",
       imgUrl: portfilio4,
     },
     {
-      description: "Graphic Design",
+      description: "Infographics",
       imgUrl: portfilio5,
     },
     {
-      description: "Graphic Design",
+      description: "Thanks",
       imgUrl: portfilio6,
     },
   ];
